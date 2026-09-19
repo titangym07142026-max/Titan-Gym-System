@@ -1,0 +1,17 @@
+TITAN GYM GITHUB PAGES SETUP
+
+1. Create GitHub account.
+2. Create new repository:
+Titan-Gym-System
+
+3. Upload:
+index.html
+app.js
+style.css
+
+4. Repository Settings:
+Pages
+Deploy from branch
+Select main branch
+
+5. Open generated GitHub Pages link.
